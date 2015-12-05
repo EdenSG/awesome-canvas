@@ -83,6 +83,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
+- [p5.js](http://p5js.org/) is a newer implementation of Processing-like creative coding.
 - [Sketch](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
